@@ -1,0 +1,1 @@
+Royal Chicken website concept demo. Menu facts/prices were taken from public delivery listings; verify with the restaurant before publishing. Facebook-specific content could not be reliably retrieved in this pass.
